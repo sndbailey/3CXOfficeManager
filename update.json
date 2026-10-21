@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "build": "3.5",
-  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.3.5/3CXOfficeManager-Setup-v1.0.3.5-win-x64.exe",
-  "sha256": "59F0436754441F3561790CC850A7154C90A36AAAA8D00A5C20C4118297BFB810",
-  "notes": "Build 3.5: automatic startup update checks and remembered manual disconnect, plus existing verified updates, department switching, and SB Dev Inc. publisher.",
-  "tag": "v1.0.3.5"
+  "build": "3.7",
+  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.3.7/3CXOfficeManager-Setup-v1.0.3.7-win-x64.exe",
+  "sha256": "5E67ED96F8EB9973ACD8C8608F34EFFECDC60C912438EEE5A62DC00B077FB9F5",
+  "notes": "Build 3.7: updater file-lock and version fixes; existing greeting re-assignment; department holiday date/time display and guarded CRUD based on XAPI Holidays schema; disconnect reset fix.",
+  "tag": "v1.0.3.7"
 }
