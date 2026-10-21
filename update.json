@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "build": "3.2",
-  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.3.2/3CXOfficeManager-Setup-v1.0.3.2-win-x64.exe",
-  "sha256": "84AE6DF20DB987C04CA39B36D6B8077A10916539B5A7EFE2CA7E7EE0F0E14C5A",
-  "notes": "Initial Windows pre-release of 3CX Office Manager, including department-based office hours, IVR greeting management, department-filtered extensions, and disconnect cleanup.",
-  "tag": "v1.0.3.2"
+  "build": "3.4",
+  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.3.4/3CXOfficeManager-Setup-v1.0.3.4-win-x64.exe",
+  "sha256": "9A62775CA57400630D6DC4B4AC9BB2E621D826D184A01089705A2E3671C81787",
+  "notes": "Build 3.4: update installation test release; retains Skia native packaging, stable department selection/disconnect, SHA-256 verified GitHub updates, and SB Dev Inc. publisher.",
+  "tag": "v1.0.3.4"
 }
