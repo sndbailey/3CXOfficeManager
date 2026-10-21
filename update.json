@@ -1,8 +1,9 @@
 {
   "version": "1.0",
-  "build": "4.2",
-  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.4.2/3CXOfficeManager-Setup-v1.0.4.2-win-x64.exe",
-  "sha256": "58F62A8D99EE0063DAECFF755B1EE36ED02C2F4880F1272495034D1E65ECCDFA",
-  "notes": "Build 4.2 separates IVR Greetings into clear Use an Existing Greeting and Record a New Greeting panels, moves the extension selector above the active greeting, and expands How It Works for both workflows; existing PBX management and secure updates are retained.",
-  "tag": "v1.0.4.2"
+  "build": "4.3",
+  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.4.3/3CXOfficeManager-Setup-v1.0.4.3-win-x64.exe",
+  "sha256": "744BEAE33DB3C6C24FDF7662794B152BEF2D20E196E1BCC301C78225FE736B8E",
+  "notes": "Build 4.3 adds signed one-year registration tied to the Installation ID, disables Connect when missing or expired, and cleans up the Settings appearance card. Existing IVR, Holidays and GitHub updates are preserved.",
+  "tag": "v1.0.4.3"
 }
+
