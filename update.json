@@ -1,8 +1,8 @@
 {
-  "version": "1.0",
-  "build": "4.6",
-  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.0.4.6/3CXOfficeManager-Setup-v1.0.4.6-win-x64.exe",
-  "sha256": "26CB8498664F5160D3AF21703B912425C737B4736FF4E0043DEA7616A98CB75D",
-  "notes": "Build 4.6 fixes department-specific holiday saving, updates the vulnerable dependency, and eliminates compiler warnings. Existing licenses, Office Hours, IVR, Holidays, and GitHub updates are retained.",
-  "tag": "v1.0.4.6"
+  "version": "1.1",
+  "build": "1.6",
+  "installer": "https://github.com/sndbailey/3CXOfficeManager/releases/download/v1.1.1.6/3CXOfficeManager-Setup-v1.1.1.6-win-x64.exe",
+  "sha256": "153230CF256D09B6346DC9E520D6F14D186A6B6A59643F24CD630A6A1B481901",
+  "notes": "Test build 1.6: rewrite IVR How it works guidance for choosing and updating main and numbered-menu recordings, saved WAV reuse, temporary greeting restoration, and phone recording. Independent scrolling and earlier fixes retained. Not approved for public release until validated.",
+  "tag": "v1.1.1.6"
 }
